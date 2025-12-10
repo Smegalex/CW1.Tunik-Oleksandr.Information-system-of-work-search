@@ -120,7 +120,7 @@ Before you begin, ensure you have the following installed:
 - Sort results using the dropdown menu:
   - **By Relevance**: Best matching results first
   - **Alphabetically**: Sort by vacancy title (A-Z)
-  - **Contr Alphabetically**: Sort by vacancy title (Z-A)
+  - **Counter Alphabetically**: Sort by vacancy title (Z-A)
   - **New to Old**: Most recent vacancies first
   - **Old to New**: Oldest vacancies first
 
